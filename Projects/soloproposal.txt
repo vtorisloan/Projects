@@ -1,4 +1,6 @@
 Project idea(s): 
+github repo link: 
+https://github.com/vtorisloan/Projects.git
 
 Anime related: 
 Create a list of anime I've watched and want to watch
