@@ -6,6 +6,7 @@ Create a platform where you create an account and then can go through anime that
 
 Stack: 
 CRUD python
+Database: 
 many to many realtionship
 
 Features: 
