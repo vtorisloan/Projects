@@ -1,0 +1,43 @@
+Project idea(s): 
+
+Anime related: 
+Create a list of anime I've watched and want to watch
+Create a platform where you create an account and then can go through anime that you want to watch, have watched, and can also add an anime if you can't find it
+Included: where you can watch in the details or description of the anime info page
+
+Stack: 
+CRUD python
+
+Features: 
+registaration and login page
+
+Dashboard: 
+your anime lists (user profile): 
+watched and watch list (two tables)
+
+Table layout:
+Title: Studio: Description:  Watch Show: About: (details/view) (edit **only if you(the logged in user) created it**) (delete **only if you(the logged in user) created it**) remove button
+
+
+Dashbaord links:
+anime: sends the client to a list of anime where they can add it to the watched or watch list, add+: allows the client to add/"create" an anime that isnt already in the data base
+
+add+: 
+jinja syntax that allows the client to add an anime to the data base but only if it has a unique name (validating that it isnt a repeat anime in the db)
+Title: 
+Sutdio: 
+Description: 
+Watch show: 
+
+*could create a many to many where users can rate the show and give each anime a total average rating 1 out of 5 stars*
+
+
+List of anime: add button and remove button when adding or removing to personal list of anime watched/want to watch list in your profile
+
+CSS: Dark theme
+
+Idea two:
+
+Book club from wireframe example
+
+**This could be really cool since I am currently in a book club with my friends and we could all use it**
